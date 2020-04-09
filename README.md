@@ -114,7 +114,7 @@ should be hassle-free.
 
     Note that mine is having issues finding the Android toolchain but the app still builds and runs fine.
 3. From the command-line on your machine, clone the app project like so:
-        git clone https://github.com/Dexter49/COVID-19-API-App-in-Flutter.git
+        git clone https://github.com/Dexter49/COVID-19-API-App-in-Flutter
 4. Once successfully cloned, cd into the directory of the app, type `flutter run` and hit Enter
 5. Depending on the specs of your machine, it should take between 30-120 seconds
    for the app to be built and run successfully.
